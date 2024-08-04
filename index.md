@@ -6,3 +6,12 @@
 ###### Header 6
 
 ![Huh Cat](https://media1.tenor.com/m/7l4PXSCFjjQAAAAd/huh-cat.gif)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
